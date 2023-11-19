@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-device-width: 1680px) {
+    body {
+        background-color:#275fa0;
+    }
+}
